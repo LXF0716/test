@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="52" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:zh-CN; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Mar  4 11:15:54 2016
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">LXF</m>
+<m key="dc.date">Fri Feb 19 10:50:08 2016
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="19" edit-time="36079" last-saved="1457061354" uid="44968416-d6b3-11e5-80ee-bc808b3b9808">
+<version id="9" started="1455850208" uid="39c8371a-d6e9-11e5-80ee-bc808b3b9808" auto="0" top-xid="2"/>
+<version id="14" started="1456121328" uid="079c063e-d948-11e5-8fbd-840f2807ea7c" auto="0" top-xid="17"/>
+<version id="19" started="1457061207" uid="67f259bc-e1b7-11e5-99a2-d35b6f84a1fc" auto="0" top-xid="35"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-right:0pt; text-decoration:none; bgcolor:transparent; line-height:1.0; font-size:12pt; margin-bottom:0pt; font-variant:normal; font-weight:normal; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr">2016/02/19<c></c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c></c>Home app 发表图片时默认分享到微博，因为checkbox的value==yes   </p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr">	用self.shareNode.checked 判断<c></c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr">Album 应用只显示20个相册<c></c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr">	翻页问题<c></c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">个人信息超过10000条显示 “万”<c></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr">2016/02/22</p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr">博客编辑预览时样式统一</p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr">相册    新建分享到微博</p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr">2016/02/23</p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr">navPanel【左边】    下面添加设置和退出</p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr">2016/03/04</p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr">相册除去新建时的分享微博，并修改相册分享方式【yes/no改成分享可编辑语言框】</p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr">分享方式1:</p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr">runtime.doSharing({</p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr">                        id: this.itemData.id,</p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr">                        type: "Album",</p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr">                        text: "I've share a album named" + this.itemData.name,</p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr">                        sharedWith: "album"</p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr">                    });</p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr">分享方式2:</p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr">   var config = {</p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr">                        text: "I've share a album named" + this.itemData.name,</p>
+<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr">                        target_id: this.itemData.id,</p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr">                        target_type: "Album",</p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr">                        sharedWith: true</p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr">                    };</p>
+<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr">                    qfaceDialog.yesno({</p>
+<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr">                        "default": "yes",</p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr">                        message: nlsCommon.doShareInMicro</p>
+<p style="Normal" xid="47" props="text-align:left; dom-dir:ltr">                    }).then(function(yes) {</p>
+<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr">                        if (yes) {</p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr">                             tweetSrv.addTweet(config).then(function(tweet) { /*todo:*/ });</p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr">                        }</p>
+<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr">                    });</p>
+</section>
+</abiword>
